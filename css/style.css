@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: italic;
+    font-variation-settings: "wdth" 100;
+
+}
+h2{
+    text-align: center;
+}
+.loveForPCS{
+    text-align: center;
+}
+header{
+    padding: 2em;
+    color: lightgreen;
+    background-color: gray;
+    text-align: center;
+}
+section{
+    margin: 5%;
+    background-color: darkgrey;
+    text-align: left;
+}
+
+li:nth-child(2n+1){
+    background-color:bisque;
+    
+}
+
+.ajg, .pc{
+    max-width: 20%;
+    max-height: 20%;
+    background-color: black;
+}
+
+article{
+    background-color: darkred;
+    padding: 2em;
+}
+
+.aprc{
+    color: red;
+}
+.aprc:hover{
+    color: blue;
+    background-color: black;
+}
+.goober{
+    max-width: 5%;
+    max-height: 5%;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
